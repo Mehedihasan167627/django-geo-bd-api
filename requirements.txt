@@ -1,0 +1,4 @@
+restframework
+django
+django-cors-headers
+tqdm
